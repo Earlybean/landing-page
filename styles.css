@@ -267,6 +267,10 @@ input{
 
 }
 
+.hero-container-row {
+    margin-top: 20px;
+}
+
  
 
 @media screen and (max-width: 767px) { 
@@ -349,6 +353,17 @@ input{
     .icon-img.fb{
         width: 10px;
     }
-    
 
+    .hero-container-row {
+        margin-top: 0px;
+    }
+    
+    .hero-container {
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+
+    .newsletter {
+        margin-top: 0px;
+    }
 }
