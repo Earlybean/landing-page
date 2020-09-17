@@ -366,4 +366,8 @@ input{
     .newsletter {
         margin-top: 0px;
     }
+
+    .hero-footer {
+        margin-bottom: 30px;
+    }
 }
